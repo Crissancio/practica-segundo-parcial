@@ -1,0 +1,9 @@
+.boton{
+    width: 120px;
+    height: 36px;
+    border: 0;
+    background-color: #777777;
+    border-radius: 5px;
+    color: white;
+    font-size: 12px;
+}
